@@ -20,9 +20,9 @@ global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = ['120363043965529911@g.us','120363023112413670@g.us','19054091487-1424650263@g.us','120363022988111568@g.us']
 global.gcrevoke = ['19054091487-1424650263@g.us']
 global.packname = "Ditz-bot"
-global.author = "Aditya Refandi Official"
+global.author = "ᴀᴅɪᴛʏᴀ ʀᴇғᴀɴᴅɪ"
 global.sessionName = "session"
-global.footer = "© Created By Aditya Refandi Official"
+global.footer = "© Created By ᴀᴅɪᴛʏᴀ_ʀᴇғᴀɴᴅɪ"
 global.linkgrupss = "https://chat.whatsapp.com/BTOjwo2QW3TESrV3XWcJLa"
 global.antitags = true
 global.txtSewabot = "1-Minggu : Rp5.000\n2-Minggu : Rp.10.000\n1-Bulan : Rp.20.000\n2-Bulan : Rp.30.000\n3-Bulan : Rp40.000"
@@ -37,7 +37,7 @@ global.mess = {
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
     linkm: 'Linknya Mana Deck?',
-    ban: ' Awokawokaowok mampus di Ban, Jika ingin di unbanned chat owner'
+    ban: ' anda telah di Ban, Jika ingin di unbanned chat owner'
 }
 global.limitawal = {
     rakyat: "Infinity",
